@@ -1,4 +1,4 @@
-# Brote app
+# Rich Text Editor
 
 A Rich Text Editor built with Slate and React.
 
@@ -16,3 +16,29 @@ Key tools used in this project:
 | [Material-UI](https://material-ui.com/) | Material Design library for React |
 | [Emotion](http://github.com/emotion-js/emotion/) | A CSS-in-JS library to style components in Javascript |
 | [Create-React-App](http://browserify.org/) | A React boilerplate |
+
+## Installation
+
+Used __Node__ v11.4.0.
+
+1. Clone project repo:
+```
+  git clone https://github.com/r0o0/RichTextEditor-React.git
+```
+2. Go to project directory:
+```
+  cd RichTextEditor-React/
+```
+3. Install package dependencies:
+```
+  yarn
+  or
+  npm install
+```
+4. To start:
+```
+  yarn start
+  or
+  npm run start
+```
+Open browser at `http://localhost:7293`
